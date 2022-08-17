@@ -16,13 +16,13 @@ Created Custom Modules for Ball, Paddles, Score
 Frequently Asked Questions;
 
 How to run this game?
-  1.Download the zip file 
+  1.Download the zip file:- 
   2.Extract those files to a specified location
   3.open and run the "main.py" file
   
 I don't have python installed on my machine?
   Don't worry, A exe file will be provided for that case 
-  link to exe file:-
+  link to exe file:- https://github.com/mehulcode12/Pong-Air-Hockey-2-Player-Game-using-turtle-graphics-python/blob/main/mehulcode12.exe
   
 How to play this game?
   For player 1:
