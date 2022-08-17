@@ -16,9 +16,9 @@ Created Custom Modules for Ball, Paddles, Score
 Frequently Asked Questions;
 
 How to run this game?
-  1.Download the zip file:- 
-  2.Extract those files to a specified location
-  3.open and run the "main.py" file
+  1. Download the zip file:- https://github.com/mehulcode12/Pong-Air-Hockey-2-Player-Game-using-turtle-graphics-python/archive/refs/heads/main.zip
+  2. Extract those files to a specified location
+  3. open and run the "main.py" file
   
 I don't have python installed on my machine?
   Don't worry, A exe file will be provided for that case 
@@ -30,6 +30,6 @@ How to play this game?
   For player 2:
       keys 'o' & 'l' are used to stimulate right-paddle up and down simultaneously
   If the ball goes beyond side boundaries then player score's a goal and a point
-  If the ball collides the upper and botton boundaries then it bounce back
+  If the ball collides the upper and bottom boundaries then it bounce back
   
   
